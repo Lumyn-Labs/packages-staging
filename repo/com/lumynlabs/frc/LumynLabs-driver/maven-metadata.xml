@@ -3,11 +3,11 @@
   <groupId>com.lumynlabs.frc</groupId>
   <artifactId>LumynLabs-driver</artifactId>
   <versioning>
-    <latest>2025.1.0</latest>
-    <release>2025.1.0</release>
+    <latest>2025.1.1</latest>
+    <release>2025.1.1</release>
     <versions>
-      <version>2025.1.0</version>
+      <version>2025.1.1</version>
     </versions>
-    <lastUpdated>20250210021317</lastUpdated>
+    <lastUpdated>20250211072811</lastUpdated>
   </versioning>
 </metadata>
