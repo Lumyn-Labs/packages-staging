@@ -3,11 +3,11 @@
   <groupId>com.lumynlabs.frc</groupId>
   <artifactId>LumynLabs-vendordep</artifactId>
   <versioning>
-    <latest>2025.1.6</latest>
-    <release>2025.1.6</release>
+    <latest>2025.1.7</latest>
+    <release>2025.1.7</release>
     <versions>
-      <version>2025.1.6</version>
+      <version>2025.1.7</version>
     </versions>
-    <lastUpdated>20250214072505</lastUpdated>
+    <lastUpdated>20250214075152</lastUpdated>
   </versioning>
 </metadata>
