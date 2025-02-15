@@ -3,11 +3,11 @@
   <groupId>com.lumynlabs.frc</groupId>
   <artifactId>LumynLabs-cpp</artifactId>
   <versioning>
-    <latest>2025.1.10</latest>
-    <release>2025.1.10</release>
+    <latest>2025.1.11</latest>
+    <release>2025.1.11</release>
     <versions>
-      <version>2025.1.10</version>
+      <version>2025.1.11</version>
     </versions>
-    <lastUpdated>20250215051031</lastUpdated>
+    <lastUpdated>20250215051530</lastUpdated>
   </versioning>
 </metadata>
